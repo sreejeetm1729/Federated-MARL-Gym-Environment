@@ -1,4 +1,4 @@
-# MARL Env (Gymnasium-ready)
+# Federated MARL Gym Environment
 
 Two small, self-contained grid environments for testing **federated / multi-agent RL**:
 
