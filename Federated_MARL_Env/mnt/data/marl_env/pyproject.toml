@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fed_marl_env_sm1729"
+version = "0.1.0"
+description = "Federated MARL grid environments compatible with Gymnasium"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name="Sreejeet Maity"}]
+dependencies = [
+    "gymnasium>=0.29",
+    "numpy>=1.23",
+    "pygame>=2.1",
+    "pillow>=9.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/sreejeetm1729/MARL-Gym-Environment"
