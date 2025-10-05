@@ -6,7 +6,7 @@
 <table> 
   <tr> 
     <td>
-      <img src="Training Video MARL-Gym-Single-Environment.gif" style="width:800px"> 
+      <img src="https://github.com/sreejeetm1729/MARL-Gym-Environment/blob/main/Training%20Video%20MARL-Gym-Multi-Environment.gif" style="width:800px">
       <img src="https://github.com/sreejeetm1729/MARL-Gym-Environment/blob/main/Training%20Video%20MARL-Gym-Multi-Environment.gif" style="width:800px">
     </td> 
   </tr>
