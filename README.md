@@ -6,6 +6,7 @@
 [![Install (TestPyPI)](https://img.shields.io/badge/pip%20install-marl--env-blue)](#installation)
  ```bash
 pip install -i https://test.pypi.org/simple/ fed-marl-single
+pip install --upgrade --no-cache-dir -i https://test.pypi.org/simple/ "fed-marl-multi==0.2.2"
 ```
 </table>
 <table> 
