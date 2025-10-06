@@ -3,7 +3,7 @@
 [![TestPyPI](https://img.shields.io/badge/dynamic/json?url=https://test.pypi.org/pypi/marl-env/json&query=$.info.version&label=TestPyPI-Single-Env&logo=pypi)](https://test.pypi.org/project/fed-marl-single/)
 [![Install (TestPyPI)](https://img.shields.io/badge/pip%20install-marl--env-blue)](#installation)
 [![TestPyPI](https://img.shields.io/badge/dynamic/json?url=https://test.pypi.org/pypi/marl-env/json&query=$.info.version&label=TestPyPI-Multi-Env&logo=pypi)](https://test.pypi.org/project/fed-marl-multi/) 
-[![Install (TestPyPI)](https://img.shields.io/badge/pip%20install-marl--env-blue)](#installation)
+[![Install (TestPyPI)](https://img.shields.io/badge/pip%20install-marl--env-red)](#installation)
  ```bash
 pip install -i https://test.pypi.org/simple/ fed-marl-single
 ```
